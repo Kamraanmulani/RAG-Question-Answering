@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environment and sensitive keys
+.env
+
+# Vector store storage (local & docker)
+qdrant_data/
+qdrant_storage/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
