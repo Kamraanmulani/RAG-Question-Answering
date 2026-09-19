@@ -31,7 +31,7 @@ async def lifespan(app: FastAPI):
 app = FastAPI(
     title="RAG Question Answering System",
     description=(
-        "Production-grade applied-AI RAG service with document ingestion (PDF & TXT), "
+        "RAG service with document ingestion (PDF & TXT), "
         "recursive token-budget chunking, vector retrieval in Qdrant, and two-tier "
         "deterministic hallucination defense."
     ),

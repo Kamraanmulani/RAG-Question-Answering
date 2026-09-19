@@ -284,5 +284,4 @@ pytest tests/test_chunking.py tests/test_api.py -v
 
 ## 8. Author
 - **Name**: Kamraan Faiyaz Mulani
-- **Coursework**: Distributed Computing (INFT A, Roll No: 23101A0028)
 - **Repository**: [https://github.com/Kamraanmulani/RAG-Question-Answering](https://github.com/Kamraanmulani/RAG-Question-Answering)
