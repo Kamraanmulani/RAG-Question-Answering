@@ -1,6 +1,6 @@
 # RAG Question Answering System
 
-> Production-grade applied-AI Retrieval-Augmented Generation (RAG) system built with **FastAPI**, **Qdrant**, **Pydantic v2**, and **OpenAI**. Evaluated on academic coursework in Distributed Computing.
+> Retrieval-Augmented Generation (RAG) system built with **FastAPI**, **Qdrant**, **Pydantic v2**, and **OpenAI**. Evaluated on academic coursework in Distributed Computing.
 
 ---
 
